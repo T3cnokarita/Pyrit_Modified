@@ -16,7 +16,7 @@ Estos son ejemplos de cómo múltiples nodos computacionales pueden acceder a un
 - Un solo almacenamiento (por ejemplo, un servidor MySQL)
 - Una red local que puede acceder al servidor de almacenamiento directamente y proporcionar cuatro nodos computacionales en varios niveles con solo un nodo accediendo realmente al servidor de almacenamiento. 
 - Otra red no confiable puede acceder al almacenamiento a través de la interfaz RPC de Pyrit y proporciona tres nodos computacionales, dos de los cuales realmente acceden a la interfaz RPC.
-# Cómo utilizar  #
+# Cómo Descargar  #
 
 ```sh
 sudo apt-get update
